@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="codeing" width="100%" height="260px" >
+<img align="center" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="codeing" width="100%" >
 <br>
 <br>
 <h1>💫 About Me:</h1>
